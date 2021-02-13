@@ -1,0 +1,14 @@
+.overlay-overlay-3hk90-KY
+{
+    display: none !important;
+}
+section ul
+{
+    display: flex !important;
+    flex-wrap: wrap;
+}
+section li
+{
+    width: 300px !important;
+    margin-bottom: 20px !important;
+}
